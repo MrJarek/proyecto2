@@ -4,4 +4,4 @@ public class Jugador {
     String Nombre;
 }
 
-/* FRAN ERES UN CRAK */
+/* FRAN ERES UN CRAK x2*/
