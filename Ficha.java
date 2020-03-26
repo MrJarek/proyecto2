@@ -6,3 +6,5 @@ public class Ficha {
     int x;
     int y;
 }
+
+/*tio kque esta pasanodoooo*/
